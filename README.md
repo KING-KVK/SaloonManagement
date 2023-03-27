@@ -1,2 +1,3 @@
 # SaloonManagement
-The Ultimate Saloon Management System
+The Ultimate Saloon Management
+By Kunal, Nayan and Krishna xD
